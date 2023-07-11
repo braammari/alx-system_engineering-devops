@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -o root
+grep root /etc/passwd
